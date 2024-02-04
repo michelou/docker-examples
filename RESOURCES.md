@@ -12,6 +12,15 @@
 
 - [15 Docker Command You Should Know][article_hale] by Jeff Hale, February 2019.
 
+## <span id="blogs">Blogs</span>
+
+- [Docker Images : Part III - Going Farther To Reduce Image Size][blog_images_3], by Jérôme Petazzoni, April 2020.
+- [Docker Images : Part II - Details Specific To Different Languages][blog_images_2], by Jérôme Petazzoni, February 2020.
+- [Docker Images : Part I - Reducing Image Size][blog_images_1], by Jérôme Petazzoni, February 2020.
+
+- [3 Different Ways to Provide Docker Build Context][blog_build_context], by Ben Cane, September 2017.
+
+
 ## <span id="books">Books</span> [**&#x25B4;**](#top)
 
 -  [Docket Deep Dive][book_poulton] by Nigel Poulten, June 2023.
@@ -31,12 +40,16 @@
 
 ***
 
-*[mics](https://lampwww.epfl.ch/~michelou/)/July 2023* [**&#9650;**](#top)
+*[mics](https://lampwww.epfl.ch/~michelou/)/February 2024* [**&#9650;**](#top)
 <span id="bottom">&nbsp;</span>
 
 <!-- link refs -->
 
 [article_hale]: https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421
+[blog_build_context]: https://www.cloudbees.com/blog/3-different-ways-to-provide-docker-build-context
+[blog_images_1]: https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html
+[blog_images_2]: https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html
+[blog_images_3]: https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html
 [book_fouda]: https://www.amazon.com/dp/1484281160
 [book_goasguen]: https://www.oreilly.com/library/view/docker-cookbook/9781491919705/
 [book_langemak]: https://www.packtpub.com/product/docker-networking-cookbook/9781786461148
