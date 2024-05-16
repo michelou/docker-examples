@@ -1,4 +1,4 @@
-# <span id="top">Docker Resources</span> <span style="size:25%;"><a href="README.md">↩</a></span>
+# <span id="top">Docker Resources</span> <span style="size:25%;">[↩](README.md#top)</span>
 
 <table style="font-family:Helvetica,Arial;line-height:1.6;">
   <tr>
@@ -14,12 +14,11 @@
 
 ## <span id="blogs">Blogs</span>
 
-- [Docker Images : Part III - Going Farther To Reduce Image Size][blog_images_3], by Jérôme Petazzoni, April 2020.
+- [Kubernetes vs Docker in 2024: Which Container Orchestration Platform Should You Choose?](https://cloud.folio3.com/blog/kubernetes-vs-docker/) by Obaid ur Rehman, February 2024.
+- [Docker Images : Part III - Going Farther To Reduce Image Size][blog_images_3], by Jérônme Petazzoni, April 2020.
 - [Docker Images : Part II - Details Specific To Different Languages][blog_images_2], by Jérôme Petazzoni, February 2020.
 - [Docker Images : Part I - Reducing Image Size][blog_images_1], by Jérôme Petazzoni, February 2020.
-
 - [3 Different Ways to Provide Docker Build Context][blog_build_context], by Ben Cane, September 2017.
-
 
 ## <span id="books">Books</span> [**&#x25B4;**](#top)
 
@@ -34,13 +33,14 @@
 
 ## <span id="tutorials">Tutorials</span>
 
+- [What Is Docker? Understanding Its Components and How It Works in 2024](https://www.hostinger.co.uk/tutorials/what-is-docker), by M. Ariffud, January 2024.
 - [DockerLabs Tutorials](https://dockerlabs.collabnix.com) :
   - Docker for [Beginners](https://dockerlabs.collabnix.com/beginners/README.html), [Intermediate](https://dockerlabs.collabnix.com/intermediate/README.html) and [Avdanced](https://dockerlabs.collabnix.com/advanced/README.html).
   - [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/).
 
 ***
 
-*[mics](https://lampwww.epfl.ch/~michelou/)/February 2024* [**&#9650;**](#top)
+*[mics](https://lampwww.epfl.ch/~michelou/)/May 2024* [**&#9650;**](#top)
 <span id="bottom">&nbsp;</span>
 
 <!-- link refs -->
