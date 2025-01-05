@@ -10,15 +10,15 @@ set _DEBUG=0
 set _EXITCODE=0
 
 @rem files README.md, RESOURCES.md, etc.
-set _LAST_MODIFIED_OLD=michelou/)/April 2024
-set _LAST_MODIFIED_NEW=michelou/)/May 2024
+set _LAST_MODIFIED_OLD=michelou/)/December 2024
+set _LAST_MODIFIED_NEW=michelou/)/January 2025
 
-set _LAST_DOWNLOAD_OLD=(\*April 2024\*)
-set _LAST_DOWNLOAD_NEW=(*May 2024*)
+set _LAST_DOWNLOAD_OLD=(\*December 2024\*)
+set _LAST_DOWNLOAD_NEW=(*January 2025*)
 
 @rem to be transformed into -not -path "./<dirname>/*"
 set _EXCLUDE_TOPDIRS=bin docs
-set _EXCLUDE_SUBDIRS=_LOCAL
+set _EXCLUDE_SUBDIRS=_LOCAL node_modules
 
 call :env
 if not %_EXITCODE%==0 goto end
